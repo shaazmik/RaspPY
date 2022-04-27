@@ -1,2 +1,2 @@
-Discretization freq: 8.960949421801232
-Step of ADC: 12.890625 mV 
+0.0134
+0.011
